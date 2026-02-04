@@ -1,6 +1,6 @@
-# Portfólio Profissional - João Paulo Del Vecchio
+# Portfólio  - João Paulo Del Vecchio
 
-Este repositório contém o portfólio profissional de João Paulo Del Vecchio, desenvolvido com tecnologias modernas de Front-End.
+Este repositório contém o portfólio  de João Paulo Del Vecchio, desenvolvido com tecnologias modernas de Front-End.
 
 ## 🤖 Sobre este Projeto (Automação com IA)
 
