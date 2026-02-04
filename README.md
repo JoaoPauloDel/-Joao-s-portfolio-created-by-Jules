@@ -6,7 +6,7 @@ Este repositório contém o portfólio  de João Paulo Del Vecchio, desenvolvido
 
 Este projeto foi **inteiramente gerado por uma automação com Inteligência Artificial**, utilizando o **Google Jules(Pro) integrado diretamente ao GitHub**.
 
-A automação atua de forma **autônoma dentro do repositório**, sendo responsável por criar arquivos, estruturar pastas, escrever o código e aplicar as alterações automaticamente, **sem codar manualmente**.
+A automação atua de forma **autônoma dentro do repositório**, sendo responsável por criar arquivos, estruturar pastas, escrever o código e aplicar as alterações automaticamente, **sem a necessidade codar manualmente**.
 
 O papel humano neste processo consistiu em **definir os objetivos do projeto, acompanhar a execução e validar os resultados gerados**, enquanto a implementação técnica foi realizada pela IA.
 
