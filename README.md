@@ -51,4 +51,4 @@ O projeto segue uma estrutura de componentes modularizada:
 - `src/components/Footer.tsx`: Rodapé com links.
 
 ---
-*Este repositório é mantido por João Paulo Del Vecchio e foi inicializado e estruturado por automação integrada ao GitHub.*
+
