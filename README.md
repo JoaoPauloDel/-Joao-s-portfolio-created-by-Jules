@@ -4,12 +4,16 @@ Este repositório contém o portfólio profissional de João Paulo Del Vecchio, 
 
 ## 🤖 Sobre este Projeto (Automação com IA)
 
-Este projeto foi **inteiramente gerado por uma automação com Inteligência Artificial** (Google Jules integrada ao GitHub).
+Este projeto foi **inteiramente gerado por uma automação com Inteligência Artificial**, utilizando o **Google Jules integrado diretamente ao GitHub**.
+
+A automação atua de forma **autônoma dentro do repositório**, sendo responsável por criar arquivos, estruturar pastas, escrever o código e aplicar as alterações automaticamente, **sem codar manualmente**.
+
+O papel humano neste processo consistiu em **definir os objetivos do projeto, acompanhar a execução e validar os resultados gerados**, enquanto a implementação técnica foi realizada pela IA.
 
 **Objetivos:**
-1.  **Estudo e Experimentação:** Demonstrar a capacidade de agentes de IA na geração de código limpo, estruturado e pronto para produção.
-2.  **Portfólio Profissional:** Servir como o portfólio oficial e atualizado de João Paulo Del Vecchio.
-3.  **Desenvolvimento:** Exemplificar uma aplicação moderna utilizando React, TypeScript e Tailwind CSS.
+1. **Estudo e Experimentação:** Demonstrar a capacidade de agentes de IA atuando diretamente em repositórios GitHub, gerando código limpo, estruturado e pronto para uso.
+2. **Portfólio Profissional:** Servir como o portfólio oficial e atualizado de João Paulo Del Vecchio.
+3. **Desenvolvimento:** Exemplificar uma aplicação moderna utilizando React, TypeScript e Tailwind CSS.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -21,15 +25,15 @@ Este projeto foi **inteiramente gerado por uma automação com Inteligência Art
 
 ## 🛠️ Como Executar Localmente
 
-1.  Clone o repositório:
+1. Clone o repositório:
     ```bash
     git clone https://github.com/JoaoPauloDel/portfolio.git
     ```
-2.  Instale as dependências:
+2. Instale as dependências:
     ```bash
     npm install
     ```
-3.  Inicie o servidor de desenvolvimento:
+3. Inicie o servidor de desenvolvimento:
     ```bash
     npm run dev
     ```
@@ -47,4 +51,4 @@ O projeto segue uma estrutura de componentes modularizada:
 - `src/components/Footer.tsx`: Rodapé com links.
 
 ---
-*Este repositório é mantido por João Paulo Del Vecchio e foi inicializado via automação.*
+*Este repositório é mantido por João Paulo Del Vecchio e foi inicializado e estruturado por automação integrada ao GitHub.*
